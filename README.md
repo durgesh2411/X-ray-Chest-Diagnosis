@@ -41,5 +41,5 @@ The <b><i>Project Table</i></b> provided below gives the progress and the status
 
 ## ${Made \space By}$
 
-***Vishu Kalier***
+***Durgesh Kumar Singh***
 
